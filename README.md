@@ -7,3 +7,7 @@ This dataset includes a list of cars and features as engine size, hoursepower an
 
 To build the model we used KNN Regression, the numeric columns of the dataset as features and the price as the target variable. The final model included four features: `horsepower`, `engine_size`, `curb_weight`, `width`and a k value of 2. The model reached a RMSE value of 2,170 and a R2 score of 90%.
 
+You will find two files in this repository:
+- Predicting Car Prices with KNN Regression.ipynb (the Jupyter Notebook with the full analysis)
+- imports-85.data (datafile)
+
